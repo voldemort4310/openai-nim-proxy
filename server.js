@@ -29,6 +29,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
+  'Nemotron-SuperVL': 'nvidia/nemotron-3.5-super-vl-120b-a12b'
 };
 
 // Health check endpoint
